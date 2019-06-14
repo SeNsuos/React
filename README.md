@@ -4,7 +4,7 @@
 
 > 下载运行
 
-    git clone https://e.coding.net/bee/myReact.git
+    git clone https://github.com/SeNsuos/React.git
     cd myReact
     npm install
     npm run dev
